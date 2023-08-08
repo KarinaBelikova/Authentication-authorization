@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{E912CA10-6B9A-4677-A00A-4C684E0FCD11}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="auth/Program.cs">
+    <Files>
+      <File FileName="auth/Controllers/AuthController.cs" Line="88" Column="52" />
+      <File FileName="auth/Program.cs" Line="45" Column="1" />
+      <File FileName="auth/Data/UserContext.cs" Line="19" Column="49" />
+      <File FileName="auth/appsettings.json" Line="1" Column="1" />
+      <File FileName="auth/Data/IUserRepository.cs" Line="12" Column="28" />
+      <File FileName="auth/Data/UserRepository.cs" Line="28" Column="36" />
+      <File FileName="auth/Helpers/JwtService.cs" Line="36" Column="28" />
+      <File FileName="auth/Dtos/RegisterDto.cs" Line="8" Column="3" />
+      <File FileName="auth/Dtos/LoginDto.cs" Line="8" Column="45" />
+      <File FileName="auth/Models/User.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="auth" expanded="True">
+            <Node name="auth" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Dtos" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.auth PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
